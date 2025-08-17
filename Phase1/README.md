@@ -52,10 +52,12 @@ Digital - represents data as a sequence of discrete values, typically using bina
   [Sensor interfacing](https://www.electronicsforu.com/technology-trends/learn-electronics/sensor-interfacing)
 
   Process of connecting sensors to microcontrollers or other processing systems. 
-            It enables the microcontrollers to; 
-                 -Acquire the signals from the sensors
-                 - Process and interpret the data from the sensor
-                 - Control devices or actuators based on the input
+  
+               It enables the microcontrollers to; 
+                  -Acquire the signals from the sensors
+                  - Process and interpret the data from the sensor
+                  - Control devices or actuators based on the input
+                  
   Principle- integrates hardware and software components to achieve accurate and reliable measurement and control.
 
 
