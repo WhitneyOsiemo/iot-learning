@@ -9,7 +9,7 @@ How to limit the current flowing through an LED using a resistor.
 How to use a resistor colour calculator to choose the right resistor.
 
   # Understanding the difference between analogue and digital signals
-  [difference between analog and digital signals](https://www.geeksforgeeks.org/physics/difference-between-analog-and-digital-signal/)
+  [Difference between analog and digital signals](https://www.geeksforgeeks.org/physics/difference-between-analog-and-digital-signal/)
   
 
 Both are electrical signals used to transmit information in various electronic systems.
@@ -47,6 +47,16 @@ Digital - represents data as a sequence of discrete values, typically using bina
                                
       Programming microcontrollers.
             Arduino - IDE, write the Arduino code and upload it to the microcontroller via USB cable. 
+
+  # Sensor interfacing 
+  [Sensor interfacing](https://www.electronicsforu.com/technology-trends/learn-electronics/sensor-interfacing)
+
+  Process of connecting sensors to microcontrollers or other processing systems. 
+            It enables the microcontrollers to; 
+                 -Acquire the signals from the sensors
+                 - Process and interpret the data from the sensor
+                 - Control devices or actuators based on the input
+  Principle- integrates hardware and software components to achieve accurate and reliable measurement and control.
 
 
 
