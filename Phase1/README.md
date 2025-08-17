@@ -32,6 +32,60 @@ Digital - represents data as a sequence of discrete values, typically using bina
         3. Adaptive Delta modulation
 
   # Microcontrollers
+  [Introduction to microcontroller](https://www.circuitbasics.com/introduction-to-microcontrolleres/)
+  
   Microcontrollers read the voltage from an input device and use this information to decide on the correct voltage to output.
   -Embedded in an integrated circuit (IC)
-        Integrated circuit - miniature electronic devices that combine multiple components.
+  
+          Integrated circuit - miniature electronic devices that combine multiple components.
+          Integrates: Processor, program memory, RAM, input/output pins.
+
+
+          -Development boards; Raspberry Pi
+                               Arduino Uno
+
+                               
+      Programming microcontrollers.
+            Arduino - IDE, write the Arduino code and upload it to the microcontroller via USB cable. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
