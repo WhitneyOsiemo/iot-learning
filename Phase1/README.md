@@ -59,7 +59,23 @@ Digital - represents data as a sequence of discrete values, typically using bina
                   - Control devices or actuators based on the input
                   
   Principle- integrates hardware and software components to achieve accurate and reliable measurement and control.
+  
+              # Types of sensors.
+               1) Based on output type: Analog and digital
+               2) Based on the type of measurement: Temperature, Pressure, Light, Motion, Humidity, Gas.
+               3) Based on the working principle: Resistive, Capacitive, Inductive, Piezoelectric.
+               4) Based on power supply: Active and passive.
+               5) Based on contact type: Contact and non-contact
+               6) Based on the application: Industrial, Automotive, Environment.
 
+              Sensing technologies
+              [Sensors and sensing technologies](https://www.electronicsforu.com/technology-trends/tech-focus/sensor-technology-solutions)
+              
+                  a) Inductive
+                  b) Capacitive
+                  c) Magnetic( Hall effect)
+
+            
 
 
 
