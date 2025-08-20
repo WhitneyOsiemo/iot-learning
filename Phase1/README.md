@@ -50,7 +50,8 @@ Digital - represents data as a sequence of discrete values, typically using bina
 
   # Sensor interfacing 
   [Sensor interfacing](https://www.electronicsforu.com/technology-trends/learn-electronics/sensor-interfacing)
-
+  [Sensors and sensing technologies](https://www.electronicsforu.com/technology-trends/tech-focus/sensor-technology-solutions)
+              
   Process of connecting sensors to microcontrollers or other processing systems. 
   
                It enables the microcontrollers to; 
@@ -69,11 +70,10 @@ Digital - represents data as a sequence of discrete values, typically using bina
                6) Based on the application: Industrial, Automotive, Environment.
 
               Sensing technologies
-              [Sensors and sensing technologies](https://www.electronicsforu.com/technology-trends/tech-focus/sensor-technology-solutions)
-              
                   a) Inductive
                   b) Capacitive
                   c) Magnetic( Hall effect)
+
 
             
 
