@@ -31,7 +31,7 @@ Digital - represents data as a sequence of discrete values, typically using bina
         2. Delta modulation
         3. Adaptive Delta modulation
 
-  # Microcontrollers
+  # MICROCONTROLLERS
   [Introduction to microcontroller](https://www.circuitbasics.com/introduction-to-microcontrolleres/)
   
   Microcontrollers read the voltage from an input device and use this information to decide on the correct voltage to output.
@@ -48,7 +48,7 @@ Digital - represents data as a sequence of discrete values, typically using bina
       Programming microcontrollers.
             Arduino - IDE, write the Arduino code and upload it to the microcontroller via USB cable. 
 
-  # Sensor interfacing 
+  # SENSOR INTERFACING
   [Sensor interfacing](https://www.electronicsforu.com/technology-trends/learn-electronics/sensor-interfacing)
   [Sensors and sensing technologies](https://www.electronicsforu.com/technology-trends/tech-focus/sensor-technology-solutions)
               
@@ -74,8 +74,50 @@ Digital - represents data as a sequence of discrete values, typically using bina
                   b) Capacitive
                   c) Magnetic( Hall effect)
 
+# SIGNAL CONDITIONING
+Modifying, filtering and amplifying the output signal
 
-            
+             Importance;
+                1. Improves SNR ratio
+                2. Match sensor output to system requirements
+                3. Reduce noise and other interferences 
+                4. Enhance signal fidelity
+
+             Types;
+                1. Amplification - Operational Amplifier
+                2. Filtering
+                3. Excitation
+                4. Isolation
+                5. Linearization 
+
+  # Choosing communication protocols in digital sensor interfacing
+  Communication protocols- Standardised rules and procedures that enable digital devices to exchange data efficiently. 
+
+               Various communication protocols
+                 1. Parallel - PCI, ATA, ISA
+                 2. Series- I^2C, SPI, USB
+                 3. Wireless - Wi-Fi, IoT devices(Zigbee, LoRa),Smartphone|Bluetooth
+
+               Handling noise and signal interference
+                   : a. Hardware solutions
+                      1. Grounding techniques 
+                      2. Cable management
+                      3. Shielding
+                     b. 
+                       1. Digital filters
+                       2. Averaging techniques
+                       3. Advanced filtering algorithms 
+
+               Best practices for sensor interfacing: 
+                       1. Stable power supply
+                       2. Regular calibration
+                       3. Use of pull-up pr pull-down resistors
+                       4. Efficient data acquisition and sampling
+                       5. Testing and validation
+
+         
+                       
+               
 
 
 
